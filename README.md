@@ -1,4 +1,4 @@
-# Kickstarter Analyis
+# Kickstarter Analysis
 
 ### Background 
 
@@ -27,13 +27,12 @@ This is an Excel Analysis of four thousand past Kickstarter projects to uncover 
 (image)
 
 * What are some of the limitations of this dataset?
-
-•	There dataset is not large enough for all categories and subcategories, so some of the results are not statistically relevant given the small sample size. We need to figure out how statistically significant these results are.
-•	We need to analyze a variety of crowdsourcing companies to draw more significant insights. 
+  * There dataset is not large enough for all categories and subcategories, so some of the results are not statistically relevant given the small sample size. We need to figure out how statistically significant these results are.
+  
+  * We need to analyze a variety of crowdsourcing companies to draw more significant insights. 
 
 
 * What are some other possible tables/graphs that we could create?
-
-•	It would be interesting to analyze the projects by the duration of conversion using the date created conversion and date ended conversion. Maybe there is a trend to see what separates the duration of successful and unsuccessful projects. 
-•	If we could analyze the data by states, we could see trends in which states have Kickstarters with the highest rates of success and which ones have the lowest rate of success. 
-•	I would like to see more information on the “successful” state. Just because a campaign reached its goal and delivered the products and services can we take it a step further and find out how many are successful in the long run. More importantly how many of the “successful” campaigns became profitable and established companies. 
+  * It would be interesting to analyze the projects by the duration of conversion using the date created conversion and date ended conversion. Maybe there is a trend to see what separates the duration of successful and unsuccessful projects. 
+  * If we could analyze the data by states, we could see trends in which states have Kickstarters with the highest rates of success and which ones have the lowest rate of success. 
+  * I would like to see more information on the “successful” state. Just because a campaign reached its goal and delivered the products and services can we take it a step further and find out how many are successful in the long run. More importantly how many of the “successful” campaigns became profitable and established companies. 

@@ -12,8 +12,6 @@ This is an Excel Analysis of four thousand past Kickstarter projects to uncover 
 
 ### Conclusions 
 
-* What are three conclusions we can make about Kickstarter campaigns given the provided data?
-
 1. Given the data provided, in general Kickstarter projects are (53.8%) more likely to be successful than to fail (37.6%) or get cancelled (8.6%). What’s interesting is that if we look into the outcomes of completed projects as separate categories we see a stark difference (if we filter by successful and unsuccessful outcomes only). The implication is that Kickstarters in music (82%), theatre (63%), film and video (63%), have the highest success rates and food (20%), games (36%) and publishing (50%) have the lowest success rates. One more thing to point out is that technology projects get canceled about a third of the time, when we look at the projects that reached completion only fifty percent are successful. If this information were presented to backers they would probably think twice about supporting the goals of certain categories. 
 
 ![png](README_images/Graph_1.PNG)
@@ -26,13 +24,15 @@ This is an Excel Analysis of four thousand past Kickstarter projects to uncover 
 
 ![png](README_images/Graph_3.PNG)
 
-* What are some of the limitations of this dataset?
+### Limitations
+
   * There dataset is not large enough for all categories and subcategories, so some of the results are not statistically relevant given the small sample size. We need to figure out how statistically significant these results are.
   
   * We need to analyze a variety of crowdsourcing companies to draw more significant insights. 
 
 
-* What are some other possible tables/graphs that we could create?
+### Other Possibilities and Considerations 
+
   * It would be interesting to analyze the projects by the duration of conversion using the date created conversion and date ended conversion. Maybe there is a trend to see what separates the duration of successful and unsuccessful projects. 
   * If we could analyze the data by states, we could see trends in which states have Kickstarters with the highest rates of success and which ones have the lowest rate of success. 
   * I would like to see more information on the “successful” state. Just because a campaign reached its goal and delivered the products and services can we take it a step further and find out how many are successful in the long run. More importantly how many of the “successful” campaigns became profitable and established companies. 
